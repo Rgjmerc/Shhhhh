@@ -1,0 +1,18 @@
+body{
+    background-color: palevioletred;
+}
+
+.btn-direct{
+    background-color: #cf3769;
+    color: azure;
+}
+:hover.btn-direct{
+    background-color: #f74e86;
+    text-decoration: underline;
+}
+.link-direct{
+    color: azure;
+}
+.text-direct{
+    color:#cc0245
+}
